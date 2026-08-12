@@ -1,0 +1,2 @@
+﻿ALTER TABLE Pets
+ADD OwnerPhone NVARCHAR(20);
